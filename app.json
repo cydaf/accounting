@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "money",
+    "slug": "money",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "config": {
+
+        "firebase": {
+
+          "apiKey": "AIzaSyBJCR_Vejg4Ojc3Yf9Lr5g974VPT6wAzQ4",
+
+          "authDomain": "product-7e07d.firebaseapp.com",
+
+          "databaseURL": "https://product-7e07d.firebaseio.com",
+
+          "projectId": "product-7e07d",
+
+          "storageBucket": "product-7e07d.appspot.com",
+
+          "messagingSenderId": "242223861817",
+
+          "appId": "1:242223861817:web:2ddab536fdf617cd787de8"
+    }
+  }
+}
+}
+}
